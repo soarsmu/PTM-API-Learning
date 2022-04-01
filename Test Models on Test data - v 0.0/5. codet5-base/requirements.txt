@@ -1,0 +1,9 @@
+sentence-splitter
+SentencePiece
+transformers
+datasets==1.0.2
+rouge_score
+TensorFlow >= 2.0
+Flax
+pandas
+nltk
