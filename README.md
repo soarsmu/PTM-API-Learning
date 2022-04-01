@@ -8,4 +8,6 @@ Otherwise, just to test the resulting models on the test data, please redirect t
 - *Test Models on Test data v 1.0* refer to the models that were trained with tokenization approach - 1.
 - *Test Models on Test data v 2.0* refer to the models that were trained withwith tokenization approach - 2.
 
+If you have any questions and/or require any assistance to run the code, please reach out to mohammad.hadi@ubc.ca
+
 -Thanks
